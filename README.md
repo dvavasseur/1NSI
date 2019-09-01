@@ -1,0 +1,1 @@
+# vavasseur.nsi
